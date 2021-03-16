@@ -28,7 +28,7 @@ Tools : Flask, Mysql
 
 ## Excecution
   - ### Database Configuration
-      - Upload and execute the **config.sql** file to  any mysql server package in apache **(suggesting lamp or xampp)**
+      - Upload and execute the **shortstza.sql** file to  any mysql server package in apache **(suggesting lamp or xampp)**
       - Change the database credentials in **server.py**
       - Start the database server
   - ### Dependencies
