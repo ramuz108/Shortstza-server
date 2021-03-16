@@ -1,0 +1,7 @@
+Flask
+flasgger
+pymysql
+flask-cors
+Flask-Limiter
+cachetools
+
